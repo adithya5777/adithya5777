@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning the core concepts of Javascript🟨 and also started my journey in Android Development🤖.
 
-- 🧑🏽‍💻 I’m looking to collaborate on 
-
 
 <!---
 adithya5777/adithya5777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
