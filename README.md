@@ -1,9 +1,10 @@
 - 👋 Hey There, I’m @adithya5777
 
-- 👀 I’m an Intermediate Front End Developer.
+- 👀 I’m an Intermediate Web Developer.
 
-- 🌱 I’m currently learning the core concepts of Javascript🟨 and also started my journey in Android Development🤖.
+- 🧐 Clever Young Programmer with 5 years of experience.
 
+- Visit my Portfolio website on - https://adithya5777.github.io 
 
 <!---
 adithya5777/adithya5777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
