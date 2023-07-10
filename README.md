@@ -4,6 +4,8 @@
 
 - 🧐 Clever Young Programmer with 5 years of experience.
 
+- 💻 ML Enthusiast
+
 - Visit my Portfolio website on - https://adithya5777.github.io 
 
 <!---
