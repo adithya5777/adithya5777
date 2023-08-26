@@ -2,7 +2,7 @@
 
 - 👀 I’m an Intermediate Web Developer.
 
-- 🧐 Clever Young Programmer with 5 years of experience.
+- 🧐 Clever Young Programmer.
 
 - 💻 ML Enthusiast
 
