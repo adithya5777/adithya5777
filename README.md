@@ -1,10 +1,10 @@
 - 👋 Hey There, I’m @adithya5777
 
+- 💻 ML Enthusiast
+
 - 👀 I’m an Intermediate Web Developer.
 
 - 🧐 Clever Young Programmer.
-
-- 💻 ML Enthusiast
 
 - Visit my Portfolio website on - https://adithya5777.github.io 
 
